@@ -422,14 +422,7 @@ html{
 /*------------------------------------MEDIA QUERY-----------------------------------------*/
 
 
-@media screen and (max-width:1000px) {
-    /* .about-text p{
-        font-size: 20px;
-    }
-    .about-text button{
-        left:10% ;
-    } */
-}
+
 
 @media screen and (max-width:1024px) {
      
