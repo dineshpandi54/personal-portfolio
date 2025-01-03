@@ -246,8 +246,164 @@ html{
     text-align: justify;
 }
 .resume-skill-list img{
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 80px;
+}
+.resume-skill-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+.resume-skill-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.resume-languages{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+}
+.resume-languages-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.resume-languages-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #B7B7B7;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+}
+.resume-web{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+}
+.resume-web-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.resume-web-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #B7B7B7;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+}
+.resume-web-2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #B7B7B7;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+}
+.resume-db{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+}
+.resume-db-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.resume-db-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #B7B7B7;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+}
+.resume-tools{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+}
+.resume-tools-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.resume-tools-1 , .resume-tools-2 , .resume-tools-3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #B7B7B7;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+}
+.resume-version{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+}
+.resume-version-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.resume-version-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #B7B7B7;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
+}
+.resume-basic{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 20px;
+}
+.resume-basic-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.resume-basic-1 , .resume-basic-2 , .resume-basic-3{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #B7B7B7;
+    padding: 20px;
+    gap: 10px;
+    border-radius: 10px;
 }
 /*------------------------------------PROJECT-----------------------------------------*/
 
