@@ -223,7 +223,7 @@ html{
     flex-basis: 30%;
     position: relative;
     padding: 10px;
-    height: 250px;
+    height: 150px;
     border-radius: 10px;
     box-shadow: 5px 5px 10px #0b0a15;
     text-align: center;
@@ -237,13 +237,6 @@ html{
 
 .resume-education h5{
     color: #eceeec;
-}
-.resume-soft-skill,.resume-interest ,.resume-hard-skill{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    gap: 20px;
-    margin-top: 20px;
 }
 .resume-education{
     display: flex;
