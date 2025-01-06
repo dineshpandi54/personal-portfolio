@@ -228,11 +228,13 @@ html{
     box-shadow: 5px 5px 10px #0b0a15;
     text-align: center;
 }
-.resume-flex h3{
+.resume h3{
     background-color: #0b0a15;
     color: #eceeec;
-    width: 300px;
+    width: 200px;
     border-radius: 10px;
+    margin: 50px;
+    text-align: center;
 }
 
 .resume-education h5{
@@ -253,7 +255,6 @@ html{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    margin: 20px;
 }
 .resume-skill-list{
     display: flex;
