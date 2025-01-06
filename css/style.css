@@ -268,6 +268,8 @@ html{
     flex-wrap: wrap;
     flex-direction: column;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 .resume-languages-list{
     display: flex;
@@ -289,6 +291,8 @@ html{
     flex-wrap: wrap;
     flex-direction: column;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 .resume-web-list{
     display: flex;
@@ -322,6 +326,8 @@ html{
     flex-wrap: wrap;
     flex-direction: column;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 .resume-db-list{
     display: flex;
@@ -344,6 +350,8 @@ html{
     flex-wrap: wrap;
     flex-direction: column;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 .resume-tools-list{
     display: flex;
@@ -366,6 +374,8 @@ html{
     flex-wrap: wrap;
     flex-direction: column;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 .resume-version-list{
     display: flex;
@@ -388,6 +398,8 @@ html{
     flex-wrap: wrap;
     flex-direction: column;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 .resume-basic-list{
     display: flex;
