@@ -149,7 +149,7 @@ html{
     width: 400px;
     padding: 20px;
     margin: 10px;
-    left: 20%;
+    left: 25%;
     background-color: #c93f1d;
     border: #c93f1d 1px solid;
     color:#eceeec;
@@ -424,7 +424,6 @@ html{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    height: 900px;
     background-color: #eceeec;
     color: #0b0a15;
     gap: 20px;
@@ -457,6 +456,7 @@ html{
     flex-wrap: wrap;
     flex-direction: column;
     padding: 20px;
+    width: 500px;
     
 }
 .project-1-img img ,.project-2-img img{
