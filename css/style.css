@@ -194,7 +194,6 @@ html{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    /* height: 1500px; */
     background-color: #eceeec;
     color: #0b0a15;
     gap: 20px;
@@ -636,16 +635,12 @@ html{
         position: relative;
         top: 200px;
     }
-    
-    .resume{
-        height: 1600px;
-    }
-    .project{
-        height: 1500px;
-    }
     .project-container{
         justify-content: center;
         align-items: center;
+    }
+    .project-1-text,.project-2-text{
+        width: 300px;
     }
     .contact{
         height: 1500px; 
