@@ -417,6 +417,10 @@ html{
     gap: 10px;
     border-radius: 10px;
 }
+.resume-hover:hover{
+    background-color: #c93f1d;
+    color: #eceeec;
+}
 /*------------------------------------PROJECT-----------------------------------------*/
 
 .project{
