@@ -637,6 +637,9 @@ html{
         position: relative;
         top: 200px;
     }
+    .resume-flex{
+        flex-basis: 50%;
+    }
     .project-container{
         justify-content: center;
         align-items: center;
@@ -679,7 +682,6 @@ html{
     }
     .resume-flex{
         flex-basis: 90%;
-
     }
     .resume h3{
         width: 250px;
