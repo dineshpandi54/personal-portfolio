@@ -6,13 +6,6 @@
 html{
     scroll-behavior: smooth;  
 }
-:root{
-    --color-1:#0b0a15;
-    --color-2:#eceeec;
-}
-
-
-
 /*------------------------------------NAVBAR-----------------------------------------*/
 
 .navbar{
